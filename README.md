@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/VeeNevire">
-   <img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql,github,laravel,tailwindcss,bootstrap&perline=12" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,laravel,java,php,mysql,github,tailwindcss,bootstrap&perline=12" />
 
   </a>
 </p>
