@@ -1,8 +1,9 @@
 <div align="center">
 
-# Hi there, I'm BayuF 👋
-
-**Frontend & Backend Developer** based in Bogor, Indonesia 🇮🇩
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/header.svg" />
+  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/header.svg" alt="BayuF - Frontend & Backend Developer" width="100%" />
+</picture>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+%26+Backend+Developer;Laravel+%2B+React+Enthusiast;Always+learning+new+things&center=true&width=440&height=45&color=58A6FF&vCenter=true&size=20" />
 
@@ -12,9 +13,11 @@
 
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="60%" />
+</div>
 
-### 🚀 About Me
+### ⚡ About Me
 
 - 🖥️ Specializing in **front-end** and **back-end** development
 - 🛠️ Skilled in HTML, CSS, JavaScript, Laravel, React, Java, and more
@@ -54,6 +57,22 @@
 
 ---
 
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VeeNevire&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 🎵 Recently Played
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31l4kf3kganxygaxptsgf2hudkpe&count=3&unique=true&width=500" alt="Spotify Recently Played" />
+</p>
+
+---
+
 ### 📫 Connect with Me
 
 <p align="center">
@@ -67,7 +86,19 @@
 
 ---
 
-### 🐍 Contribution Graph
+### 🌊 Contribution
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="60%" />
+</div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/profile-3d-contrib/profile-season-animate.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/profile-3d-contrib/profile-night-green.svg" />
+    <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution" width="100%" />
+  </picture>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VeeNevire/VeeNevire/output/github-contribution-grid-snake-dark.svg" />
