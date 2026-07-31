@@ -24,7 +24,9 @@
 - 📍 Based in **Bogor, Indonesia**
 - 🌱 Always exploring new technologies and improving every day
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="60%" />
+</div>
 
 ### 💻 Tech Stack
 
@@ -42,7 +44,9 @@
   </a>
 </p>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="60%" />
+</div>
 
 ### 📊 GitHub Stats
 
@@ -55,7 +59,9 @@
   <img src="https://streak-stats.demolab.com/?user=VeeNevire&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="60%" />
+</div>
 
 ### 📈 Activity Graph
 
@@ -71,7 +77,9 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31l4kf3kganxygaxptsgf2hudkpe&count=3&unique=true&width=500" alt="Spotify Recently Played" />
 </p>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="60%" />
+</div>
 
 ### 📫 Connect with Me
 
@@ -84,7 +92,9 @@
   </a>
 </p>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="60%" />
+</div>
 
 ### 🌊 Contribution
 
