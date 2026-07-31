@@ -1,26 +1,75 @@
-<h1 align="center"><strong>Hi there! I'm BayuF 👋</strong></h1>
+<div align="center">
 
-<p align="center"><strong>Based in Bogor, I specialize in both front-end and back-end development, with skills in HTML, CSS, Java, JavaScript, and more..</strong></p>
+# Hi there, I'm BayuF 👋
 
-<h2 align="center">Skills & Expertise</h2>
+**Frontend & Backend Developer** based in Bogor, Indonesia 🇮🇩
 
-<p align=center>
+<img src="https://readme-typing-svg.demolab.com/?lines=Frontend+%26+Backend+Developer;Laravel+%2B+React+Enthusiast;Always+learning+new+things&center=true&width=440&height=45&color=58A6FF&vCenter=true&size=20" />
+
+<a href="https://github.com/VeeNevire">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VeeNevire.VeeNevire" alt="profile views" />
+</a>
+
+</div>
+
+---
+
+### 🚀 About Me
+
+- 🖥️ Specializing in **front-end** and **back-end** development
+- 🛠️ Skilled in HTML, CSS, JavaScript, Laravel, React, Java, and more
+- 📍 Based in **Bogor, Indonesia**
+- 🌱 Always exploring new technologies and improving every day
+
+---
+
+### 💻 Tech Stack
 
 <p align="center">
-  <a href="https://github.com/VeeNevire">
-   <img src="https://skillicons.dev/icons?i=html,css,js,laravel,react,java,php,mysql,github,tailwindcss,bootstrap&perline=12" />
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java" alt="Backend" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="Database" />
   </a>
 </p>
 
-<h2 align="center"><b>Connect with Me</h2>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VeeNevire&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeeNevire&layout=compact&hide_border=true&theme=github_dark&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=VeeNevire&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.instagram.com/veenevire/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>&nbsp;
-   <a href="https://discord.com/users/822301425082171423">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>&nbsp;
-  
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/users/822301425082171423">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
 </p>
+
+---
+
+### 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VeeNevire/VeeNevire/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VeeNevire/VeeNevire/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/output/github-contribution-grid-snake.svg" />
+</picture>
