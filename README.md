@@ -44,9 +44,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VeeNevire&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VeeNevire&theme=github_dark" alt="Profile Details" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeeNevire&layout=compact&hide_border=true&theme=github_dark&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VeeNevire&theme=github_dark" alt="Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VeeNevire&theme=github_dark" alt="Stats" />
   <br />
   <img src="https://streak-stats.demolab.com/?user=VeeNevire&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
