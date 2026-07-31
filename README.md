@@ -94,9 +94,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/profile-3d-contrib/profile-season-animate.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/profile-3d-contrib/profile-night-green.svg" />
-    <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VeeNevire/VeeNevire/profile-3d-contrib/profile-3d-contrib/profile-season-animate.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VeeNevire/VeeNevire/profile-3d-contrib/profile-3d-contrib/profile-night-green.svg" />
+    <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/profile-3d-contrib/profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution" width="100%" />
   </picture>
 </p>
 
