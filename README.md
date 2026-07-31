@@ -69,7 +69,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VeeNevire&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="60%" />
+</div>
 
 ### 🎵 Recently Played
 
