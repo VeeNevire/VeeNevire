@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="60%" />
+  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="100%" />
 </div>
 
 ### ⚡ About Me
@@ -25,7 +25,7 @@
 - 🌱 Always exploring new technologies and improving every day
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="60%" />
+  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="100%" />
 </div>
 
 ### 💻 Tech Stack
@@ -45,7 +45,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="60%" />
+  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="100%" />
 </div>
 
 ### 📊 GitHub Stats
@@ -60,7 +60,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="60%" />
+  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="100%" />
 </div>
 
 ### 📈 Activity Graph
@@ -70,7 +70,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="60%" />
+  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="100%" />
 </div>
 
 ### 🎵 Recently Played
@@ -80,7 +80,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="60%" />
+  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="100%" />
 </div>
 
 ### 📫 Connect with Me
@@ -95,13 +95,13 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="60%" />
+  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="100%" />
 </div>
 
 ### 🌊 Contribution
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="60%" />
+  <img src="https://raw.githubusercontent.com/VeeNevire/VeeNevire/main/assets/divider.svg" alt="divider" width="100%" />
 </div>
 
 <p align="center">
